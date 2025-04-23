@@ -1,3 +1,8 @@
+# !! WARNING !! 
+
+unstable build NOT tested MqttPublish interval min reduced to 1 second
+
+
 # OpenDTU
 
 [![OpenDTU Build](https://github.com/tbnobody/OpenDTU/actions/workflows/build.yml/badge.svg)](https://github.com/tbnobody/OpenDTU/actions/workflows/build.yml)
